@@ -1,11 +1,12 @@
 # Education Python Basic Book:heart_eyes_cat:
 
-Python 프로그래밍 언어 입문자를 위한 기본 내용  
+Python 프로그래밍 언어 입문자를 위한 기본 내용(+기본 웹 크롤링)
 
 ## Developer Environment
 
   - Language: Python 3.7
   - IDE Tool: JupyterNotebook
+  - Using Library: requests, beautifulsoup4
 
 ## Contents
 #### 1.Basic Python Language

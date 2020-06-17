@@ -4,10 +4,10 @@ Python 프로그래밍 언어 입문자를 위한 기본 내용(+기본 웹 크�
 
 ## Developer Environment
 
-  - Language: Python 3.7
-  - IDE Tool: JupyterNotebook
-  - Package Manager: Anaconda
-  - Using Library: requests, beautifulsoup4
+  - Language: Python 3.7:crocodile:
+  - IDE Tool: JupyterNotebook:zap:
+  - Package Manager: Anaconda:snake:
+  - Using Library: requests, beautifulsoup4:blossom:
 
 ## Contents
 #### 1.Basic Python Language

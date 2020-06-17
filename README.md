@@ -4,9 +4,9 @@ Python 프로그래밍 언어 입문자를 위한 기본 내용(+기본 웹 크�
 
 ## :heavy_check_mark:Developer Environment
 
-  - Language: :crocodile:[Python 3.7](https://www.python.org/)
-  - IDE Tool: :zap:[JupyterNotebook](https://jupyter.org/)
-  - Package Manager: :snake:[Anaconda](https://www.anaconda.com/)
+  - Language: [:crocodile:Python 3.7](https://www.python.org/)
+  - IDE Tool: [:zap:JupyterNotebook](https://jupyter.org/)
+  - Package Manager: [:snake:Anaconda](https://www.anaconda.com/)
   - Using Library: [requests, :blossom:beautifulsoup4](https://anaconda.org/)
 
 ## :book:Contents
